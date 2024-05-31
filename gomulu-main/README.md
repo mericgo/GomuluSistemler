@@ -1,0 +1,2 @@
+# gomulu
+gomulu sistemler proje
